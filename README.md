@@ -7,4 +7,4 @@ Sobre mi:
 - Me gusta escuchar música, mi artista favorita es Aurora.
 - Tengo una perrita (foto abajo).
 
-!(https://github.com/pdepviernestm/2024-presentacion-Briii1303/assets/164544164/fe52c4b5-e2a4-4f2d-9e72-9a32aefabf16)
+![](https://github.com/pdepviernestm/2024-presentacion-Briii1303/assets/164544164/fe52c4b5-e2a4-4f2d-9e72-9a32aefabf16)
