@@ -1,10 +1,8 @@
-# presentacion-
+# Brisa Calzado
+___
+Holi, soy Bri tengo 19 y estoy en el segundo año de la carrera. 
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
+Sobre mi:
+- Me encanta leer, principalmente leo fantasía y romance, y leo tanto en inglés como en español.
+- Me gusta escuchar música, mi artista favorita es Aurora.
+- Tengo una perrita.
